@@ -1,0 +1,5 @@
+{
+  "name": "MonoDo",
+  "description": "A minimalist, Korean-style to-do list app with deadline tracking and alerts.",
+  "requestFramePermissions": []
+}
